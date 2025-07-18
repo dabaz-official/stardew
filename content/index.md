@@ -6,8 +6,8 @@ navigation: false
 ::hero
 ---
 actions:
-  - name: Documentation
-    to: https://shadcn-docs-nuxt.vercel.app/getting-started/introduction
+  - name: 进入文档
+    to: /introduction
   - name: GitHub
     variant: outline
     to: https://github.com/dabaz-official/stardew
@@ -15,10 +15,10 @@ actions:
 ---
 
 #title
-欢迎来到星露谷 Wiki
+欢迎来到星露谷物语 Wiki
 
 #description
-探索**星露谷 Wiki**，你的《星露谷物语》中文攻略宝库！从 NPC 好感度到物品获取、任务指南再到农场规划，这里为你提供全面、详尽的游戏资讯，助你打造梦想中的田园生活！
+探索**星露谷物语 Wiki**，你的《星露谷物语》中文攻略宝库！从 NPC 好感度到物品获取、任务指南再到农场规划，这里为你提供全面、详尽的游戏资讯，助你打造梦想中的田园生活！
 ::
 
 ::div{class="border rounded-lg shadow-md"}

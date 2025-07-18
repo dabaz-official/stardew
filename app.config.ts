@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'stardew-valley',
-      description: '一个给星露谷玩家的在线文档',
+      name: '星露谷物语 Wiki',
+      description: '一个给星露谷物语玩家的在线文档',
     },
     theme: {
       customizable: true,
@@ -10,7 +10,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: '星露谷 Wiki by DabAZ',
+      title: '星露谷物语 Wiki by DabAZ',
       showTitle: true,
       darkModeToggle: true,
       languageSwitcher: {
@@ -19,8 +19,8 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: '/logo.svg',
-        dark: '/logo-dark.svg',
+        light: '/logo.png',
+        dark: '/logo-dark.png',
       },
       nav: [],
       links: [{
